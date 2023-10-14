@@ -53,6 +53,17 @@ The live link can be found here - [The Black Cat Ball](https://shradhask.github.
 
 <img width="432" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/57714328-8889-4aca-9888-6d68e85d820b">
 
+
+<h2>Unsolved Bugs</h2>
+
+- Improve responsivesness by better utilizing space on larger screens
+- Change the font color on the RSVP form to make it more visible and appealing
+
+<h2>Credits</h2>
+
+The general layout was created with help from ChatGpt. Entered the following prompt to get suggestions:
+
+_I want to create a responsive Cat show website using CSS and HTML. Suggest layouts or templates I can use_
  
 
 
