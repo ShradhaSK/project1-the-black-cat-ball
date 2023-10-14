@@ -58,8 +58,8 @@ h1{
 
 nav {
     position: absolute;
-    background-color: #fafafa;
     width: 100%;
+    color:#fafafa;
     left: 0;
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
@@ -79,7 +79,7 @@ nav {
 }
 
 .current {
-    border-bottom: 1px solid #434F5B;
+    border-bottom: 1px solid #fafafa;
 }
 
   
