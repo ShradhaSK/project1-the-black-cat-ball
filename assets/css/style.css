@@ -99,10 +99,31 @@ nav {
 
 /* Main Content */
 main {
-    margin-top: 90px;
+    margin-top: 95px;
+    /* Make main element take up any surplus space to push the footer down */
+    flex: 1 0 auto;
+    /* margin-left: 2px;
+    margin-right: 2px; */
 }
 
 /* Footer */
+footer {
+    background-color: #fafafa;
+}
+
+#social-media {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: #434F5B;
+}
 
 /* Media Query: Overriding styles for tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
