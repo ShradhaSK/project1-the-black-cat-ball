@@ -42,8 +42,11 @@ The live link can be found here - [The Black Cat Ball](https://shradhask.github.
 <h3>Validator Testing</h3>
 - HTML:
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+  
 - CSS:
+  
   - No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+ 
 - Accessibility:
 
 <img width="432" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/57714328-8889-4aca-9888-6d68e85d820b">
