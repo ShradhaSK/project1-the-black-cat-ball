@@ -1,4 +1,4 @@
-<h1>The Black Cat Ball</h1>h1>
+<h1>The Black Cat Ball</h1>
 
 Welcome,
 
