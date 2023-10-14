@@ -120,6 +120,24 @@ main h2, main h3 {
     max-height: 200px;
 }
 
+.rsvp-with-bg {
+    background: url(../images/pexels-helena-lopes-1931367.jpg) no-repeat center / cover;
+}
+
+form label, form input {
+    color: #434F5B;;
+    display: flex;
+    margin: 0.2remrem;
+    background: transparent;
+    font-size: 110%;
+}
+
+#submit {
+    color: #434F5B;
+    border: 1px solif #fafafa;
+    font-family: Caveat, cursive;
+}
+
 /* Footer */
 footer {
     background-color: #fafafa;
