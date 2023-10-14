@@ -3,7 +3,7 @@
 <img width="1022" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/2218ac7e-d802-43c3-9b47-7b99783a2797">
 
 
-Welcome,
+Welcome!
 
 This is a responsive website for the Annual Halloween Cat Show!
 For all Cat parents, admirers and lovers!
@@ -31,7 +31,22 @@ Come, see for yourself!
  <h2>Deployment</h2>
 This section describes the process you went through to deploy the project to a hosting platform
 
-The site was deployed to GitHub pages.
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - [The Black Cat Ball](https://shradhask.github.io/project1-the-black-cat-ball/index.html)
+
+
+<h2>Testing</h2>
+<h3>Validator Testing</h3>
+HTML:
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
+CSS:
+  - No errors were returned when passing through the official [W3C CSS validator](https://jigsaw.w3.org/css-validator/)
+Accessibility:
+<img width="432" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/57714328-8889-4aca-9888-6d68e85d820b">
+
  
 
 
