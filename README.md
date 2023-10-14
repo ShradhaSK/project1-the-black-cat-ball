@@ -1,4 +1,4 @@
-#The Black Cat Ball
+<h1>The Black Cat Ball</h1>
 
 <img width="1022" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/2218ac7e-d802-43c3-9b47-7b99783a2797">
 
@@ -16,7 +16,7 @@ So,
 
 Come, see for yourself!
 
-##Features
+<h2>Features</h2>
 - Navigation bar
 <img width="1439" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/67a4e741-d50b-42cf-8b1d-799c2581a38d">
 
