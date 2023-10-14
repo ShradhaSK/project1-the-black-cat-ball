@@ -1,5 +1,8 @@
 <h1>The Black Cat Ball</h1>
 
+<img width="1022" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/2218ac7e-d802-43c3-9b47-7b99783a2797">
+
+
 Welcome,
 
 This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
