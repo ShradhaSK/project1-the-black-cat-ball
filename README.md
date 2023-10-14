@@ -64,6 +64,14 @@ The live link can be found here - [The Black Cat Ball](https://shradhask.github.
 The general layout was created with help from ChatGpt. Entered the following prompt to get suggestions:
 
 _I want to create a responsive Cat show website using CSS and HTML. Suggest layouts or templates I can use_
+
+<h2>Content</h2>
+
+The icons in the footer were taken from Font Awesome
+The code to make the Socia media links was taken from CI Love Running Project
+
+Media
+The photos used on the home and sign up page are from [Pexels](https://www.pexels.com/)
  
 
 
