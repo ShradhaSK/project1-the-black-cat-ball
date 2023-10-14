@@ -111,6 +111,15 @@ main h2, main h3 {
     padding-left: 25px;
 }
 
+#bg-image {
+    height: 90vw;
+    width: 90vw;
+    background: url(../images/black-cats-heading.jpeg) no-repeat top center/cover;
+    margin: 20px 1rem;;
+    max-width: 300px;
+    max-height: 200px;
+}
+
 /* Footer */
 footer {
     background-color: #fafafa;
