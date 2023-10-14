@@ -40,7 +40,9 @@ The live link can be found here - [The Black Cat Ball](https://shradhask.github.
 
 <h2>Testing</h2>
 <h3>Validator Testing</h3>
+
 - HTML:
+
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
   
 - CSS:
