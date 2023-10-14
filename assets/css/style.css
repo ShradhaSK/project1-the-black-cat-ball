@@ -9,7 +9,7 @@
 }
 
 h1, h2, h3 {
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: Caveat, cursive;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #434F5B;
@@ -104,6 +104,15 @@ main {
     flex: 1 0 auto;
     /* margin-left: 2px;
     margin-right: 2px; */
+}
+
+main h2, main h3 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.schedule {
+    padding-left: 25px;
 }
 
 /* Footer */
