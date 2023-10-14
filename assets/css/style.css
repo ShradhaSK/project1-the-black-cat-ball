@@ -126,14 +126,14 @@ main h2, main h3 {
 form label, form input {
     color: #434F5B;;
     display: flex;
-    margin: 0.2remrem;
+    margin: 0.2rem;
     background: transparent;
     font-size: 110%;
 }
 
 #submit {
     color: #434F5B;
-    border: 1px solif #fafafa;
+    border: 1px solid #fafafa;
     font-family: Caveat, cursive;
 }
 
