@@ -96,10 +96,9 @@ nav {
 /* Main Content */
 main {
     margin-top: 95px;
+    background-color: #ece7ed;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
-    /* margin-left: 2px;
-    margin-right: 2px; */
 }
 
 main h2, main h3 {
