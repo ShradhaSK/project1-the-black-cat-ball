@@ -28,6 +28,13 @@ Come, see for yourself!
   - RSVP form to confirm a seat in the show
  <img width="1102" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/8c2a14c4-2112-48ef-aede-6d4acfd3419f">
 
+ <h2>Deployment</h2>
+This section describes the process you went through to deploy the project to a hosting platform
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
  
 
 
