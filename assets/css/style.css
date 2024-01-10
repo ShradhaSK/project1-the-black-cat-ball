@@ -9,6 +9,7 @@
 }
 
 h1, h2, h3 {
+    text-align: center;
     font-family: Caveat, cursive;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -31,8 +32,7 @@ header {
     position: fixed;
     text-align: center;
     border: 3px solid #2E2E2E;
-    padding: 5px;
-    width: 100%;
+    padding: 1rem;
     z-index: 99;
 /* margin: 0px auto; */
     box-shadow: 0px 0px 15px #434F5B;
@@ -40,6 +40,10 @@ header {
     justify-content: space-between;
     align-items: baseline;
     background: url('../images/pexels-david-bartus-1510543.jpg') no-repeat center center/cover;
+}
+
+.heading {
+    padding-left: 1rem;
 }
 
 header a {
@@ -96,12 +100,29 @@ nav {
 /* Main Content */
 main {
     margin-top: 95px;
-    background-color: #ece7ed;
+    /* background-color: #ece7ed; */
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.5)), url(../images/black-cats-heading.jpeg) no-repeat top center/cover;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
 }
 
+.section {
+    padding: 1rem; /* Set padding for each section */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add a subtle box shadow */
+
+  }
+
+.section h3 {
+    display:inline-flex
+}
+
+#highlights {
+    padding: 0 3.5rem 1rem;
+}
+
 main h2, main h3 {
+    display: flex;
+    justify-content: space-evenly;
     margin-top: 1rem;
     margin-bottom: 0.5rem;
 }
@@ -110,21 +131,43 @@ main h2, main h3 {
     padding-left: 25px;
 }
 
-#bg-image {
-    height: 90vw;
-    width: 90vw;
-    background: url(../images/black-cats-heading.jpeg) no-repeat top center/cover;
-    margin: 20px 1rem;;
-    max-width: 300px;
-    max-height: 200px;
+.schedule ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    font-weight:bold;
+    justify-content: space-around;
+    padding-right: 2rem;
 }
+
+.schedule ul li {
+    width: 48%; 
+    box-sizing: border-box; 
+    margin-bottom: 0.5rem; 
+    padding: 0.5rem;
+    border: 1px solid #230505;
+}
+
+#tickets {
+    color: #290f0f;
+}
+
+
+#tickets ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-right: 2rem;
+}
+
 
 .rsvp-with-bg {
     background: url(../images/pexels-helena-lopes-1931367.jpg) no-repeat center / cover;
 }
 
 form label, form input {
-    color: #434F5B;;
+    color: #fafafa;;
     display: flex;
     margin: 0.2rem;
     background: transparent;
@@ -132,9 +175,10 @@ form label, form input {
 }
 
 #submit {
-    color: #434F5B;
-    border: 1px solid #fafafa;
+    color: #ffffff;
+    border: 1px solid #0f0000;
     font-family: Caveat, cursive;
+    font-size: 110%;
 }
 
 /* Footer */
@@ -153,7 +197,7 @@ footer {
 #social-media i {
     font-size: 160%;
     padding: 5%;
-    color: #434F5B;
+    color: #10151a;
 }
 
 /* Media Query: Overriding styles for tablets and larger (768px and up) */
@@ -187,7 +231,24 @@ footer {
 
 /* Media Query: Overriding styles for laptops and larger (992px and up) */
 @media screen and (min-width: 992px) {
+
+    h1, h2, h3 {
+        text-align: center;
+        font-family: Caveat, cursive;
+        text-transform: uppercase;
+        letter-spacing: 0.5rem;
+    }
+
+    .section p, .section ul {
+        font-size: larger;
+    }
+
     #nav-menu a:hover {
         border-bottom: 1px solid #434F5B;
+    }
+
+    #submit:hover {
+        color: #0f0000;
+        border: 1px solid #ffffff;
     }
 }
