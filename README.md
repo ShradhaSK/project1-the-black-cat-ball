@@ -34,7 +34,9 @@ Come, see for yourself!
  
  <h2>Deployment</h2>
 This section describes the process used to deploy the project:
+
 Link to the website: [https://shradhask.github.io/project1-the-black-cat-ball/](https://shradhask.github.io/project1-the-black-cat-ball/)
+ß
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
