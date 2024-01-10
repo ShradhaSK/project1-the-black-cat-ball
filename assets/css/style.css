@@ -100,7 +100,7 @@ nav {
 /* Main Content */
 main {
     margin-top: 95px;
-    /* background-color: #ece7ed; */
+    /* Add background inage with gradient */
     background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.5)), url(../images/black-cats-heading.jpeg) no-repeat top center/cover;
     /* Make main element take up any surplus space to push the footer down */
     flex: 1 0 auto;
