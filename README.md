@@ -55,7 +55,8 @@ This section describes the process used to deploy the project:
  
 - Accessibility:
 
-<img width="432" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/57714328-8889-4aca-9888-6d68e85d820b">
+<img width="486" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/0f23413c-90ca-4e58-a071-9a2bc75910e5">
+
 
 
 <h2>Unsolved Bugs</h2>
