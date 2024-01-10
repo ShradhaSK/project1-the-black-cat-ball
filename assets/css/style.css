@@ -181,6 +181,17 @@ form label, form input {
     font-size: 110%;
 }
 
+/* Gallery Page Styling */
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+.hidden-heading {
+    display: none;
+}
+
 /* Footer */
 footer {
     background-color: #fafafa;
