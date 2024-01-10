@@ -35,12 +35,11 @@ Come, see for yourself!
  <h2>Deployment</h2>
 This section describes the process used to deploy the project:
 
-Link to the website: [https://shradhask.github.io/project1-the-black-cat-ball/](https://shradhask.github.io/project1-the-black-cat-ball/)
-ß
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The website can be found [here](https://shradhask.github.io/project1-the-black-cat-ball/)
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 
 <h2>Testing</h2>
