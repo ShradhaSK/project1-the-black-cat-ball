@@ -17,7 +17,7 @@ Come, see for yourself!
 
 <h2>Features</h2>
 - Navigation bar
-<img width="1439" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/67a4e741-d50b-42cf-8b1d-799c2581a38d">
+<img width="1440" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/a6dc0f29-d1c5-4dc5-a60d-dea8e69320e2">
 
 
   - Features a main page with all the event details and contact information
