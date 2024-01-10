@@ -20,24 +20,25 @@ Come, see for yourself!
 <img width="1440" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/a6dc0f29-d1c5-4dc5-a60d-dea8e69320e2">
 
 
-  - Features a main page with all the event details and contact information
- <img width="1424" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/cbe38ffa-2582-425d-b741-019214e6d0b6">
+  - A main/Home page with all the event details and contact information
+ <img width="1440" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/9173f233-2d8f-416e-8898-b2b6e324b001">
+
 
   - Gallery page with photos of adorable fluff cuties from our previous shows
  <img width="920" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/b159d081-ff08-4b36-a737-02d07bf3a48d">
 
 
-  - RSVP form to confirm a seat in the show
- <img width="1102" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/8c2a14c4-2112-48ef-aede-6d4acfd3419f">
+  - RSVP form to confirm a seat for the show
+  <img width="753" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/68f5d24e-2428-4071-8e7f-1e03ac4c8fd8">
 
+ 
  <h2>Deployment</h2>
-This section describes the process you went through to deploy the project to a hosting platform
-
+This section describes the process used to deploy the project:
+Link to the website: [https://shradhask.github.io/project1-the-black-cat-ball/](https://shradhask.github.io/project1-the-black-cat-ball/)
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - [The Black Cat Ball](https://shradhask.github.io/project1-the-black-cat-ball/index.html)
 
 
 <h2>Testing</h2>
