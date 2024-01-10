@@ -1,6 +1,7 @@
 <h1>The Black Cat Ball</h1>
 
-<img width="1022" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/2218ac7e-d802-43c3-9b47-7b99783a2797">
+<img width="930" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/0f65fd79-36a6-484c-a506-4a530739081e">
+
 
 
 Hello and welcome to our responsive website for the Annual Halloween Cat Show!
