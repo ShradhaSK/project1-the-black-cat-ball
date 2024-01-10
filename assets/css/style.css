@@ -39,7 +39,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    background: url('../images/pexels-david-bartus-1510543.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url('../images/pexels-david-bartus-1510543.jpg') no-repeat center center/cover;
 }
 
 .heading {
@@ -63,14 +63,23 @@ h1{
 nav {
     position: absolute;
     width: 100%;
-    color:#fafafa;
     left: 0;
+    color:#340303;
+    font-weight: bold;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3));
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
     top: 100%;
 
 
+}
+
+.sign-up {
+    width: 75%;
+    margin: auto;
+    padding-top: 2rem;
+    
 }
 
 #topnav {
@@ -163,11 +172,12 @@ main h2, main h3 {
 
 
 .rsvp-with-bg {
-    background: url(../images/pexels-helena-lopes-1931367.jpg) no-repeat center / cover;
+    /* Add background inage with gradient */
+    background: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.5)), url(../images/pexels-helena-lopes-1931367.jpg) no-repeat top center/cover;
 }
 
 form label, form input {
-    color: #fafafa;;
+    color: #200b0b;;
     display: flex;
     margin: 0.2rem;
     background: transparent;
@@ -175,10 +185,16 @@ form label, form input {
 }
 
 #submit {
-    color: #ffffff;
+    color: #230808;
     border: 1px solid #0f0000;
     font-family: Caveat, cursive;
     font-size: 110%;
+    padding-right: 0.5em
+}
+
+#submit:hover {
+    color: #db5c6f;
+    /* background-color: #c5bebe; */
 }
 
 /* Gallery Page Styling */
@@ -237,6 +253,11 @@ footer {
     #logo {
         font-size: 200%;
         margin: 0 0.3rem;
+    }
+
+    #photos {
+        column-count: 3;
+        column-gap: 0;
     }
 }
 
