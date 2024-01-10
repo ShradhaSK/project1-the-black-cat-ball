@@ -3,15 +3,13 @@
 <img width="1022" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/2218ac7e-d802-43c3-9b47-7b99783a2797">
 
 
-Welcome!
-
-This is a responsive website for the Annual Halloween Cat Show!
-For all Cat parents, admirers and lovers!
+Hello and welcome to our responsive website for the Annual Halloween Cat Show!
+For all Cat parents, admirers and lovers alike!
 Come join us this Halloween and bask in the glamour.
 We guarantee a night filled with awe, surprise and fun
-All ages are welcome!
-We have more than 200 "Cat-icipants" 🤩 that will delight you with their neat tricks and exciting costumes!
-Limited seat, sign up today!
+All ages are welcome! (Children below 5 come for free!)
+We have more than 200 "Cat-icipants" 🤩 that will delight you with their neat tricks and skills and let's not forget, exciting costumes!
+Limited seats, sign up today!
 So,
 
 Come, see for yourself!
@@ -23,6 +21,9 @@ Come, see for yourself!
 
   - Features a main page with all the event details and contact information
  <img width="1424" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/cbe38ffa-2582-425d-b741-019214e6d0b6">
+
+  - Gallery page with photos of adorable fluff cuties from our previous shows
+ <img width="920" alt="image" src="https://github.com/ShradhaSK/project1-the-black-cat-ball/assets/131806140/b159d081-ff08-4b36-a737-02d07bf3a48d">
 
 
   - RSVP form to confirm a seat in the show
@@ -57,7 +58,7 @@ The live link can be found here - [The Black Cat Ball](https://shradhask.github.
 <h2>Unsolved Bugs</h2>
 
 - Improve responsivesness by better utilizing space on larger screens
-- Change the font color on the RSVP form to make it more visible and appealing
+- Change the font color on the RSVP form to make it more visible and appealing (This bug has been fixed)
 
 <h2>Credits</h2>
 
